@@ -73,13 +73,13 @@ pip install fastapi psycopg uvicorn
 ### 5. Run the FastAPI server
 
 ```bash
-- uvicorn main:app --reload
+uvicorn main:app --reload
 ```
 
 ### 6. Access the API 
 
 ```bash
--  oepn your browser and go to: 
+- open your browser and go to: 
 - http://127.0.0.1:8000/docs
 - This will open the Swagger UI where you can test all endpoints
 ```
