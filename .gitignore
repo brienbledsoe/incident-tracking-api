@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Backup files
+*.bak
+
+# Project-specific exclusions
+Documentation Related/
+
+
+# OS / misc
+.DS_Store
